@@ -1,6 +1,7 @@
 # AutoITSmartContractInteraction
 Record Repeatable Smart Contract Macros - Time Triggered Claim - Sell - Buy - AutoCompound &amp; AutoInvest Setups
 
+![AutoITSC](https://raw.githubusercontent.com/tylerburden22/AutoITSmartContractInteraction/main/ss1.jpg)
 
 Compatible With Metamask, BraveWallet, ArgentWallet, Coin98 Wallet
 Compatible With All Mainnets and TestNetworks
